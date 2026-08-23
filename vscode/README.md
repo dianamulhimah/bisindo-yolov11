@@ -15,7 +15,6 @@ Aplikasi memiliki beberapa fitur utama:
 - Menampilkan hasil deteksi dan confidence.
 - Word Builder untuk merangkai hasil deteksi menjadi kata.
 - Text-to-Speech (TTS) Bahasa Indonesia.
-- Pengaturan confidence threshold.
 - Pengukuran FPS secara real-time.
 
 ## Cara Menjalankan
