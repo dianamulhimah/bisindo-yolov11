@@ -20,6 +20,7 @@ Evaluasi model dilakukan menggunakan beberapa metrik, yaitu:
 - mAP@50-95
 - FPS
 - Waktu inferensi
+- Confusion matrix
 
 ## Hasil Evaluasi
 
@@ -27,7 +28,6 @@ Hasil evaluasi mencakup pengujian pada:
 
 - Validation Set
 - Test Set
-- Pengujian real-time menggunakan aplikasi Streamlit
 
 ## File dalam Folder
 
