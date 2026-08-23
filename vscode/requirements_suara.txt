@@ -1,0 +1,14 @@
+# ============================================================
+# REQUIREMENTS — Aplikasi Deteksi BISINDO Real-time
+# ============================================================
+# Install dengan perintah:
+#   pip install -r requirements_suara.txt
+# ============================================================
+
+ultralytics==8.3.40    # YOLOv11
+opencv-python>=4.8.0   # Kamera dan gambar
+streamlit>=1.28.0       # Web UI
+numpy>=1.24.0           # Array
+gtts>=2.4.0             # Google Text-to-Speech (suara)
+pygame>=2.5.0           # Putar audio mp3
+pandas>=2.0.0            # Tabel metrik evaluasi per kelas (tab Evaluasi Model)
