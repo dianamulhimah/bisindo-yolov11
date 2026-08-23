@@ -1,0 +1,16 @@
+Parameter,Nilai
+Jumlah dataset sumber terdaftar,10
+Jumlah dataset sumber berhasil diunduh,10
+Jumlah gambar sebelum deduplikasi,15669
+Jumlah gambar sesudah deduplikasi,9594
+Jumlah gambar dihapus sebagai duplikat,6075
+Jumlah gambar sebelum undersampling,9594
+Jumlah gambar sesudah undersampling,8008
+Jumlah minimum gambar per kelas,308
+Jumlah kelas,26 (A-Z)
+Jumlah data Train (80%),6406
+Jumlah data Valid (10%),801
+Jumlah data Test (10%),801
+Total dataset final,8008
+Direktori dataset final,/content/dataset_final
+File konfigurasi,/content/dataset_final/data.yaml

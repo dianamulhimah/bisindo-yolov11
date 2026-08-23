@@ -1,0 +1,19 @@
+Parameter,Nilai
+Dataset,"BISINDO Multi-Sumber (10 dataset Roboflow digabung, dedup, undersampling, split 80:10:10)"
+Jumlah Kelas,26 kelas (A–Z)
+Jumlah Data Train,6406 gambar
+Jumlah Data Valid,801 gambar
+Jumlah Data Test,801 gambar
+Ukuran Gambar,640 × 640 px
+Model Dibandingkan,"YOLOv11 Nano, YOLOv11 Small"
+Epoch,50
+Batch Size,16
+Optimizer,AdamW
+Learning Rate,0.0003
+Augmentasi Training,Tidak ada (seluruh augmentasi dinonaktifkan)
+Confidence Threshold,0.9
+IoU Threshold,0.5
+--- MODEL TERBAIK (OTOMATIS) ---,
+Model Terpilih,YOLOv11 Small
+Alasan Utama,mAP@50-95  : 0.7324 (Nano) vs 0.8009 (Small)
+Bobot Model Terbaik,/content/model_realtime/best_YOLOv11_Small.pt
